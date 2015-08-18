@@ -50,7 +50,7 @@ DEFINE LAVA 255 0 0
 
 This config file will give black pixels the ```BLOCK``` tag and red pixels the ```LAVA``` tag.
 
-####Output file
+##Output file
 The output text file(s) generated will go into the specified output folder and will have the same name as the image used to generate the file.
 
 Example ```JSON``` output file
